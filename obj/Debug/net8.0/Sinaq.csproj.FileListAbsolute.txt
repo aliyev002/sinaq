@@ -1,0 +1,14 @@
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\bin\Debug\net8.0\Sinaq.exe
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\bin\Debug\net8.0\Sinaq.deps.json
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\bin\Debug\net8.0\Sinaq.runtimeconfig.json
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\bin\Debug\net8.0\Sinaq.dll
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\bin\Debug\net8.0\Sinaq.pdb
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.AssemblyInfoInputs.cache
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.AssemblyInfo.cs
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.csproj.CoreCompileInputs.cache
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.dll
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\refint\Sinaq.dll
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.pdb
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\Sinaq.genruntimeconfig.cache
+C:\Users\Aliye_du26\source\repos\Sinaq\Sinaq\obj\Debug\net8.0\ref\Sinaq.dll
